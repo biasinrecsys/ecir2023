@@ -629,7 +629,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Other Sections
 --------------------------------------------------------------*/
 
-#aims, #topics, #dates, #submission, #committee, #program, #proceedings, #keynote, #attending, #contacts, #editions, #acknowledgements {
+#aims, #topics, #dates, #submission, #committee, #program, #proceedings, #keynote, #attending, #contacts, #acknowledgments, #editions, #acknowledgements {
   padding: 60px 0 30px 0;
 }
 
